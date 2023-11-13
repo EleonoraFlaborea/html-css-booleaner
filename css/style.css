@@ -39,10 +39,15 @@ h2{
     margin-bottom: 0%;
 }
 
-.proprietario{
+.write{
     color: rgb(162, 153, 153);
     font-size: 15px;
     margin: 0 auto;
+}
+
+.proprietario{
+    color: lightblue;
+
 }
 
 .data{
@@ -59,7 +64,11 @@ h2{
 
 .names{
     font-size: 10px;
+}
+
+.john{
     margin-top: 0%;
+    margin-bottom: 0%;
 }
 
 .yellow{
