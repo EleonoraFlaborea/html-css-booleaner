@@ -83,6 +83,29 @@ thead{
 
 .light-blue{
     background-color: aqua;
+
+}
+
+.interest{
+    color: rgb(162, 153, 153);
+    font-size: 20px;
     
 }
 
+
+.lorem{
+    width: 250px;
+    height: 160px;
+}
+
+.dolor{
+    font-size: 20px;
+    position: absolute;
+    color: white;
+    
+
+}
+
+
+
+    
