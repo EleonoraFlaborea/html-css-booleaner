@@ -71,12 +71,22 @@ h2{
     margin-bottom: 0%;
 }
 
-.yellow{
+
+.text{
     background-color: yellow;
 }
+div.list{
+    text-align: left;
+}
 
-ul{
-   
+ul.unorder{
+   display: inline-block;
+   text-align: left;
+   padding: 1%;
+   padding-top: 0%;
+   padding-bottom: 0%;
+   margin-top: 0%;
+   margin-bottom: 0%;
 }
 
 table{
