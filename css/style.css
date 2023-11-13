@@ -1,5 +1,10 @@
 /* Header */
-header{
-    background-color: rgb(76, 130, 182);
+.pattern {
+    width: 800px;
+    height: 200px;
+    background-color: rgb(75, 153, 227);
+    background-image: url('../img/pattern.png');
+    background-repeat: repeat;
+   
 
 }
