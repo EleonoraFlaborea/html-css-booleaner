@@ -101,20 +101,19 @@ thead{
     
 }
 
-
-.lorem{
-    width: 250px;
-    height: 160px;
-}
-
-.dolor{
-    font-size: 20px;
-    position: absolute;
+.container{
+    position: relative;
+    text-align: left;
     color: white;
-    
-
+    margin-left: 0%;
 }
 
+.top-left{
+    position: absolute;
+    top: 0px;
+    left: 5px;
+    margin-top: 1%;
+}
 
 
     
