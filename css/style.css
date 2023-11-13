@@ -31,8 +31,8 @@ img{
 /* Main */
 
 section{
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 h2{
@@ -67,8 +67,22 @@ h2{
 }
 
 ul{
-   float: left;
    
+}
 
+table{
+    width: 60%;
+
+}
+
+thead{
+    background-color: rgb(18, 100, 208);
+    color: white;
+    text-align: left;
+}
+
+.light-blue{
+    background-color: aqua;
+    
 }
 
